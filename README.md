@@ -1,6 +1,7 @@
 # dayjs-homepage
 
 A simple webpage that displays the current time of the user using dayjs API and micromodal API
+
 Check this if you want to see the original design : https://imgur.com/a/vFY6Sdl
 
 ![Homepage design](<assets/Capture d'écran 2023-09-28 140132.png>)
