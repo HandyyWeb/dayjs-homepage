@@ -2,9 +2,9 @@
 
 > A simple webpage that displays the current time of user using dayjs API and mircomodal API
 
-![Homepage design](<Capture d'écran 2023-09-28 140132.png>)
+![Homepage design](<assets/Capture d'écran 2023-09-28 140132.png>)
 
-![Modal design](<Capture d'écran 2023-09-28 140203.png>)
+![Modal design](<assets/Capture d'écran 2023-09-28 140203.png>)
 
 # Setup
 
