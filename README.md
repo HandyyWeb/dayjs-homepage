@@ -1,6 +1,6 @@
 # dayjs-homepage
 
-> A simple webpage that displays the current time of user using dayjs API and mircomodal API
+> A simple webpage that displays the current time of the ser using dayjs API and micromodal API
 
 ![Homepage design](<assets/Capture d'écran 2023-09-28 140132.png>)
 
